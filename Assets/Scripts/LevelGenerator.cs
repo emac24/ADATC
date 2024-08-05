@@ -12,4 +12,9 @@ public class LevelGenerator : MonoBehaviour
         Debug.Log(levelVal);
     }
 
+    void Update() {
+        if (Input.GetKey("escape")) {
+            Application.Quit();
+        }
+    }
 }

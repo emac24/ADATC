@@ -18,4 +18,10 @@ public class StartSceneChange : MonoBehaviour
         panel.SetActive(false);
     }
 
+    void Update() {
+        if (Input.GetKey("escape")) {
+            Application.Quit();
+        }
+    }
+
 }

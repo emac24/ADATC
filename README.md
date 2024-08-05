@@ -8,6 +8,7 @@ A Day at the Carnival is a 3D carnival simulator game created in Unity. Enjoy a 
 * A - Left
 * S - Backward
 * D - Right
+* Esc - Close Game
 * Left Shift - Sprint
 * Left Mouse Button - Collect Prize
 
