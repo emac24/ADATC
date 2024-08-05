@@ -22,7 +22,7 @@ A Day at the Carnival is a 3D carnival simulator game created in Unity. Enjoy a 
 	* Materials (color) added by me.
 * "Hedgehog plush" (https://skfb.ly/oCRIn) by SunnyBuns is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 * “Easy Primitive People” by Bit Gamey on the Unity Asset Store is an Extension Asset licensed under the Standard Unity Asset Store EULA (https://unity.com/legal/as-terms).
-Knockout Stand created in Blender by me, Elise Machado
+* Knockout Stand created in Blender by me, Elise Machado
 
 ### Textures
 * “Handpainted Grass & Ground Textures” by Chromisu on the Unity Asset Store is an Extension Asset licensed under the Standard Unity Asset Store EULA (https://unity.com/legal/as-terms).
