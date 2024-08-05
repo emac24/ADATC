@@ -15,11 +15,11 @@ A Day at the Carnival is a 3D carnival simulator game created in Unity. Enjoy a 
 
 ### 3D Models
 * "Carnival Ferris Wheel 🎡" (https://skfb.ly/oMEQN) by Glowbox 3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Animation added by me.
+-Animation added by me.
 * "Balloons" (https://skfb.ly/C6no) by Xan San is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
-- Materials (color) added by me.
+-Materials (color) added by me.
 * "Teddy Bear" (https://skfb.ly/oQHWo) by Xeno Studios is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Materials (color) added by me.
+-Materials (color) added by me.
 * "Hedgehog plush" (https://skfb.ly/oCRIn) by SunnyBuns is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 * “Easy Primitive People” by Bit Gamey on the Unity Asset Store is an Extension Asset licensed under the Standard Unity Asset Store EULA (https://unity.com/legal/as-terms).
 Knockout Stand created in Blender by me, Elise Machado
