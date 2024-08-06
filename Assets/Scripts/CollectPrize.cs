@@ -19,7 +19,7 @@ public class CollectPrize : MonoBehaviour
             //Debug.Log("This is selected");
             if (Physics.Raycast(ray, out hit)) {
                 BoxCollider bc = hit.collider as BoxCollider;
-                if (bc != null && bc.CompareTag("TopPrize") && latestScore >= 100 && collected == false) {
+                if (bc != null && bc.CompareTag("TopPrize") && latestScore >= 80 && collected == false) {
                     Destroy(bc.gameObject);
                     collected = true;
                 }
